@@ -1,2 +1,5 @@
 test file
 added line1
+added line2
+....
+added line n
